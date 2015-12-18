@@ -1,4 +1,11 @@
-Installed plubing:
+All you need is:
+
+* git clone this repo
+* start to make you own Meteor Project
+* Do not forget to remove autopublish, insecure
+* Enjoy
+
+Installed plugin:
 
 * accounts-google       1.0.6  Login service for Google accounts
 * accounts-ui           1.1.6  Simple templates to add login widgets to an app

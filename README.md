@@ -1,6 +1,6 @@
 All you need is:
 
-* git clone this repo
+* git clone https://github.com/VladislavSournine/emptyMeteor.git LOCALDIRNAME
 * start to make you own Meteor Project
 * Do not forget to remove autopublish, insecure
 * Enjoy

@@ -5,7 +5,7 @@ All you need is:
 * Do not forget to remove autopublish, insecure
 * Enjoy
 
-Installed plugin:
+Installed plugins:
 
 * accounts-google       1.0.6  Login service for Google accounts
 * accounts-ui           1.1.6  Simple templates to add login widgets to an app

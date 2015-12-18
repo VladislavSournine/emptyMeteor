@@ -1,0 +1,22 @@
+<template name="ApplicationLayout">
+  <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="nav navbar-nav navbar-right">{{> loginButtons}}</ul>
+          <ul class="breadcrumb">
+            <li class="active">
+              <a href="/">Home</a> <span class="divider"></span>
+            </li>
+            <li>
+              <a href="/about">About</a> <span class="divider"></span>
+            </li>
+          </ul>
+          {{> yield}}
+        </div>
+      </div>
+    </div>
+</template>
+
+<template name="Home">
+  <h2>Привет. Это заглавная страничка</h2>
+</template>
